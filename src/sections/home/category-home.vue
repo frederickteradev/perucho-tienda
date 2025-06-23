@@ -3,45 +3,39 @@ import cardCategory from "../../components/cardCategory.vue";
 </script>
 
 <template>
-  <section class="bg-dark p-5">
+  <section class="bg-dark p-5" id="categorias">
     <div class="container">
       <div class="row">
         <div class="text-center text-light mb-3">
-          <h2 class="text-danger montserrat-600 mb-3 display-6">Categorías</h2>
-          <p class="montserrat-400 p-3">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui odit
-            repellendus magnam.
+          <h2 class="text-danger montserrat-600 mb-3 display-5">Categorías</h2>
+          <p class="montserrat-500 lead p-3">
+            Explora nuestra selección de ropa y accesorios diseñados para el
+            hombre moderno. Encuentra moda y calidad en cada prenda.
           </p>
         </div>
         <cardCategory
           titulo="Camisas"
-          descripcion=" lorem wefwefwefwefwe "
-          img="./src/assets/card1.png"
+          img="./src/assets/camisa.png"
         ></cardCategory>
         <cardCategory
-          titulo="Camisas"
-          descripcion=" lorem wefwefwefwefwe "
-          img="./src/assets/card1.png"
+          titulo="Suéteres"
+          img="./src/assets/sueter.png"
         ></cardCategory>
         <cardCategory
-          titulo="Camisas"
-          descripcion=" lorem wefwefwefwefwe "
-          img="./src/assets/card1.png"
+          titulo="Pantalones y Jeans"
+          img="./src/assets/short.png"
         ></cardCategory>
         <cardCategory
-          titulo="Camisas"
-          descripcion=" lorem wefwefwefwefwe "
-          img="./src/assets/card1.png"
+          titulo="Shorts"
+          img="./src/assets/short.png"
         ></cardCategory>
         <cardCategory
-          titulo="Camisas"
-          descripcion=" lorem wefwefwefwefwe "
-          img="./src/assets/card1.png"
+          titulo="Gorras"
+          img="./src/assets/gorras.png"
         ></cardCategory>
         <cardCategory
-          titulo="Camisas"
-          descripcion=" lorem wefwefwefwefwe "
-          img="./src/assets/card1.png"
+          titulo="Accesorios"
+          img="./src/assets/accesorios.png"
         ></cardCategory>
       </div>
     </div>
