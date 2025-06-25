@@ -13,30 +13,15 @@ import cardCategory from "../../components/cardCategory.vue";
             hombre moderno. Encuentra moda y calidad en cada prenda.
           </p>
         </div>
-        <cardCategory
-          titulo="Camisas"
-          img="../../src/assets/camisa.png"
-        ></cardCategory>
-        <cardCategory
-          titulo="Suéteres"
-          img="../../src/assets/sueter.png"
-        ></cardCategory>
+        <cardCategory titulo="Camisas" img="/camisa.png"></cardCategory>
+        <cardCategory titulo="Suéteres" img="/sueter.png"></cardCategory>
         <cardCategory
           titulo="Pantalones y Jeans"
-          img="../../src/assets/short.png"
+          img="/short.png"
         ></cardCategory>
-        <cardCategory
-          titulo="Shorts"
-          img="../../src/assets/short.png"
-        ></cardCategory>
-        <cardCategory
-          titulo="Gorras"
-          img="../../src/assets/gorras.png"
-        ></cardCategory>
-        <cardCategory
-          titulo="Accesorios"
-          img="../../src/assets/accesorios.png"
-        ></cardCategory>
+        <cardCategory titulo="Shorts" img="/short.png"></cardCategory>
+        <cardCategory titulo="Gorras" img="/gorras.png"></cardCategory>
+        <cardCategory titulo="Accesorios" img="/accesorios.png"></cardCategory>
       </div>
     </div>
   </section>
