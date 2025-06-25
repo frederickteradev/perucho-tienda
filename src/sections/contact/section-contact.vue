@@ -2,7 +2,7 @@
 
 <template>
   <section class="imagen pt-1" id="contactos">
-    <div class="container-fluid pt-5 mb-2">
+    <div class="container-fluid pt-5">
       <div class="row px-2">
         <div class="col-md-6 p-5">
           <h1 class="mb-4 text-danger display-4 montserrat-500">Contáctanos</h1>
@@ -12,47 +12,42 @@
             personalizada que mereces.
           </p>
         </div>
-        <div class="col-md-6 px-2">
-          <div class="card bg-dark px-4">
-            <div class="card-body">
-              <h4 class="pb-4 display-5 montserrat-500 text-danger">
-                Información de Contacto
-              </h4>
-              <p class="h6 lead mb-3">
-                <strong
-                  ><i class="bi bi-geo-alt fs-4 text-danger"></i> Dirección:
-                </strong>
-                Mini Centro Comercial "Betulia Ordaz", al lado de la Escuela
-                "Pedro Gual", Mercado Municipal, Caripito - Estado Monagas.
-              </p>
+        <div class="col-md-6 bg-dark p-5 mb-3">
+          <h4 class="pb-4 display-5 montserrat-500 text-danger">
+            Información de Contacto
+          </h4>
+          <p class="h6 lead mb-3">
+            <strong
+              ><i class="bi bi-geo-alt fs-4 text-danger"></i> Dirección:
+            </strong>
+            Mini Centro Comercial "Betulia Ordaz", al lado de la Escuela "Pedro
+            Gual", Mercado Municipal, Caripito - Estado Monagas.
+          </p>
 
-              <p class="h6 lead">
-                <strong
-                  ><i class="bi bi-clock-fill fs-4 text-danger"></i>
-                  Horario:</strong
-                >
-              </p>
+          <p class="h6 lead">
+            <strong
+              ><i class="bi bi-clock-fill fs-4 text-danger"></i>
+              Horario:</strong
+            >
+          </p>
 
-              <hr />
-              <div class="row">
-                <a
-                  href=""
-                  class="btn btn-success mb-4 d-flex justify-content-center align-items-center gap-1"
-                  ><i class="bi bi-whatsapp fs-4"></i> +58 412-0801682</a
-                >
-                <a
-                  href=""
-                  class="btn btn-light d-flex mb-4 justify-content-center align-items-center gap-1"
-                  ><i class="bi bi-envelope-at fs-3"></i>
-                  larezpedro405@gmail.com</a
-                >
-                <a
-                  href=""
-                  class="btn btn-primary d-flex mb-4 justify-content-center align-items-center gap-1"
-                  ><i class="bi bi-facebook fs-4"></i> Peruchosport Larez</a
-                >
-              </div>
-            </div>
+          <hr />
+          <div class="row">
+            <a
+              href=""
+              class="btn btn-success mb-4 d-flex justify-content-center align-items-center gap-1"
+              ><i class="bi bi-whatsapp fs-4"></i> +58 412-0801682</a
+            >
+            <a
+              href=""
+              class="btn btn-light d-flex mb-4 justify-content-center align-items-center gap-1"
+              ><i class="bi bi-envelope-at fs-3"></i> larezpedro405@gmail.com</a
+            >
+            <a
+              href=""
+              class="btn btn-primary d-flex mb-4 justify-content-center align-items-center gap-1"
+              ><i class="bi bi-facebook fs-4"></i> Peruchosport Larez</a
+            >
           </div>
         </div>
       </div>
@@ -68,7 +63,8 @@
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  height: 150vh;
+  min-height: 120vh;
+  height: auto;
   position: relative;
 }
 

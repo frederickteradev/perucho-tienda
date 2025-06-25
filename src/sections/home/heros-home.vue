@@ -40,7 +40,8 @@
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  height: 110vh;
+  min-height: 110vh;
+  height: auto;
   position: relative;
 
   padding-top: 80px;
