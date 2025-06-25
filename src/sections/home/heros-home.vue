@@ -16,7 +16,7 @@
             Perucho <span class="text-danger">Sport</span>
           </h1>
           <h2 class="display-6 text-info montserrat-700">Moda y Calidad</h2>
-          <p class="lead montserrat-500">
+          <p class="lead montserrat-500 p-4">
             Diseñado para el hombre que cuida su imagen sin perder su identidad.
           </p>
           <div class="">

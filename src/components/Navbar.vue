@@ -4,12 +4,12 @@
       'navbar',
       'navbar-expand-lg',
       'fixed-top',
-      'px-3',
+
       'py-0',
       scrolled ? 'bg-dark shadow-sm' : 'bg-transparent',
     ]"
   >
-    <div class="container-fluid">
+    <div class="container px-0">
       <span class="m-2">
         <img
           src="../assets/logo.png"
@@ -31,7 +31,7 @@
         data-bs-toggle="collapse"
         data-bs-target="#navbar"
       >
-        <i class="bi bi-list"></i>
+        <i class="bi bi-list" style="color: white"></i>
       </button>
       <div class="collapse navcollapse navbar-collapse" id="navbar">
         <ul class="navbar-nav ms-auto">

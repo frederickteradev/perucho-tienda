@@ -2,7 +2,7 @@
 
 <template>
   <section class="imagen pt-1" id="contactos">
-    <div class="container-fluid pt-2 mb-2">
+    <div class="container-fluid pt-5 mb-2">
       <div class="row px-2">
         <div class="col-md-6 p-5">
           <h1 class="mb-4 text-danger display-4 montserrat-500">Contáctanos</h1>
@@ -12,8 +12,8 @@
             personalizada que mereces.
           </p>
         </div>
-        <div class="col-md-6 bg-dark p-5">
-          <div class="px-3">
+        <div class="col-md-6 bg-dark px-5 pt-4">
+          <div class="">
             <h4 class="pb-4 display-5 montserrat-500 text-danger">
               Información de Contacto
             </h4>
