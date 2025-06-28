@@ -3,7 +3,7 @@
 <template>
   <section class="bg-light imagen">
     <div class="container mt-2 p-2">
-      <div class="aling-center">
+      <div class="d-flex align-items-center">
         <div class="row text-center text-light animate">
           <div class="d-flex justify-content-center">
             <img

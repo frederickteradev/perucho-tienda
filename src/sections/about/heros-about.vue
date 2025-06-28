@@ -2,9 +2,9 @@
 
 <template>
   <section class="bg-dark heros py-5">
-    <div class="container-fluid p-5">
+    <div class="container p-4">
       <div class="row py-5">
-        <div class="col-md-6 py-2 pt-5 bg-danger">
+        <div class="col-md-6 col-sm-12 py-2 pt-5 bg-danger">
           <h4 class="text-white pb-3 display-5 px-4 montserrat-600">
             Acerca de <span class="text-dark">Perucho Sport</span>
           </h4>

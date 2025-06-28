@@ -14,11 +14,7 @@
         <img
           src="../assets/logo.png"
           alt=""
-          :class="[
-            'img-fluid',
-            'navbar-logo ',
-            scrolled ? 'logo-small' : 'logo-large',
-          ]"
+          :class="['navbar-logo ', scrolled ? 'logo-small' : 'logo-large']"
         />
       </span>
       <span href="#" class="text-light ms-1 montserrat-700 shop-title">
@@ -117,7 +113,9 @@ onUnmounted(() => {
 
 .navbar-logo {
   transition: all 0.3s ease;
-  max-width: 70px;
+
+  height: auto;
+  display: block;
 }
 
 .logo-small {
