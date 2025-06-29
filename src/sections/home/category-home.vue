@@ -16,8 +16,9 @@ import cardCategory from "../../components/cardCategory.vue";
         <cardCategory titulo="Camisas" img="/camisa.png"></cardCategory>
         <cardCategory titulo="Suéteres" img="/sueter.png"></cardCategory>
         <cardCategory
+          class="ajuste"
           titulo="Pantalones y Jeans"
-          img="/short.png"
+          img="/pantalones.png"
         ></cardCategory>
         <cardCategory titulo="Shorts" img="/short.png"></cardCategory>
         <cardCategory titulo="Gorras" img="/gorras.png"></cardCategory>

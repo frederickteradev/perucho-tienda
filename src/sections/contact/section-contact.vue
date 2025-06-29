@@ -34,12 +34,12 @@
           <hr />
           <div class="row">
             <a
-              href=""
+              href="https://wa.me/584120801682"
               class="btn btn-success mb-4 d-flex justify-content-center align-items-center gap-1"
               ><i class="bi bi-whatsapp fs-4"></i> +58 412-0801682</a
             >
             <a
-              href=""
+              href="mailto:larezpedro405@gmail.com"
               class="btn btn-light d-flex mb-4 justify-content-center align-items-center gap-1"
               ><i class="bi bi-envelope-at fs-3"></i> larezpedro405@gmail.com</a
             >

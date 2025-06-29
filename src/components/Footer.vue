@@ -48,11 +48,11 @@
             ><i class="bi bi-facebook fs-3"></i
           ></a>
 
-          <a href="" class="btn btn-outline-success"
+          <a href="https://wa.me/584120801682" class="btn btn-outline-success"
             ><i class="bi bi-whatsapp fs-3"></i
           ></a>
 
-          <a href="" class="btn btn-outline-light"
+          <a href="mailto:larezpedro405@gmail.com" class="btn btn-outline-light"
             ><i class="bi bi-envelope-at fs-3"></i
           ></a>
         </div>
