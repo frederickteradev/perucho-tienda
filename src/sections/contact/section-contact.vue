@@ -57,7 +57,7 @@
 
 <style>
 .imagen {
-  background-image: url("../../assets/heros-contact.jpg");
+  background-image: url("../../assets/heros-contact.webp");
 
   background-size: cover;
   background-position: center;

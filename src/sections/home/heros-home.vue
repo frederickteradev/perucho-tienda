@@ -34,7 +34,7 @@
 
 <style scoped>
 .imagen {
-  background-image: url("../../assets/heros-image.jpg");
+  background-image: url("../../assets/heros-image.webp");
 
   background-size: cover;
   background-position: center;

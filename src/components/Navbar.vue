@@ -12,7 +12,7 @@
     <div class="container px-0">
       <span class="m-2">
         <img
-          src="../assets/logo.png"
+          src="../assets/logo.webp"
           alt=""
           :class="['navbar-logo ', scrolled ? 'logo-small' : 'logo-large']"
         />
