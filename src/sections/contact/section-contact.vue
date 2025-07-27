@@ -29,6 +29,7 @@
               ><i class="bi bi-clock-fill fs-4 text-danger"></i>
               Horario:</strong
             >
+            7:00 AM a 12:00PM
           </p>
 
           <hr />

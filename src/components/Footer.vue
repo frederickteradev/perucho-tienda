@@ -5,11 +5,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4 pt-5 mb-4">
-          <img
-            src="../assets/logo.png"
-            alt="logo"
-            class="img-fluid logo-footer"
-          />
+          <img src="/logo.webp" alt="logo" class="img-fluid logo-footer" />
           <ul class="list-unstyled p-3">
             <li class="mb-2">
               <a href="#inicio" class="text-decoration-none text-white"

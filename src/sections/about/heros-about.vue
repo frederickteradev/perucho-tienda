@@ -27,7 +27,7 @@
         </div>
         <div class="col-md-6 mt-4">
           <img
-            src="../../assets/heros-image.jpg"
+            src="/fotos_peruchosport.webp"
             alt=""
             class="card-img img-fluid"
           />
